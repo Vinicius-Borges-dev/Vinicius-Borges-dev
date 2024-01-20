@@ -1,16 +1,36 @@
-### Hi there 👋
+# Opa! Tudo bem?👋
+### Me chamo Vinícius Borges, sou um Dev Fullstack
 
-<!--
-**Vinicius-Borges-dev/Vinicius-Borges-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinicius-Borges-dev&theme=tokyonight)
 
-Here are some ideas to get you started:
+<h4>Sou um desenvolvedor que está trilhando o caminho Fullstack Web Developer.
+Minha abordagem é baseada na criação de códigos minimalistas com foco em alta performance. Tenho como objetivo expandir meus conhecimentos na área da tecnologia, contribuindo com o máximo de projetos possíveis.</h4>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinicius-Borges-dev&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinicius-Borges-dev&theme=tokyonight)
+
+## Tecnologias que utilizo
+
+<div align="left" style="display:inline-block;">
+    <h4>Linguagens</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,nodejs" />
+    <h4>Banco de dados</h4>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <h4>Frameworks</h4>
+    
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    
+<h4>Design</h4>
+
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+
+
+##
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinicius-Borges-dev&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vinicius-Borges-dev&theme=tokyonight&utcOffset=8)
