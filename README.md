@@ -1,14 +1,22 @@
 # Opa! Tudo bem?👋
 ### Me chamo Vinícius Borges, sou um Dev Fullstack
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinicius-Borges-dev&theme=tokyonight)
+
+</div>
 
 <h4>Sou um desenvolvedor que está trilhando o caminho Fullstack Web Developer.
 Minha abordagem é baseada na criação de códigos minimalistas com foco em alta performance. Tenho como objetivo expandir meus conhecimentos na área da tecnologia, contribuindo com o máximo de projetos possíveis.</h4>
 </br>
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinicius-Borges-dev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinicius-Borges-dev&theme=tokyonight)
+
+</div>
 
 ## Tecnologias que utilizo
 
@@ -32,5 +40,9 @@ Minha abordagem é baseada na criação de códigos minimalistas com foco em alt
 
 ##
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinicius-Borges-dev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vinicius-Borges-dev&theme=tokyonight&utcOffset=8)
+
+</div>
