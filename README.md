@@ -7,7 +7,7 @@
 
 </div>
 
-### Sou um desenvolvedor que está trilhando o caminho Fullstack Web Developer. Minha abordagem é baseada na criação de códigos minimalistas com foco em alta performance. Tenho como objetivo expandir meus conhecimentos na área da tecnologia, contribuindo com o máximo de projetos possíveis.
+### Sou um desenvolvedor que está trilhando o caminho do Fullstack. Minha abordagem é baseada na criação de códigos minimalistas com foco em alta performance. Tenho como objetivo expandir meus conhecimentos na área da tecnologia, contribuindo com o máximo de projetos possíveis.
 
 <div align="center">
 
@@ -19,17 +19,17 @@
 ## Tecnologias que utilizo
 
 <div align="left" style="display:inline-block;">
-    <h4>Linguagens</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,nodejs" />
+    <h4>Linguagens que domino</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,nodejs,python" />
     <h4>Banco de dados</h4>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-    <h4>Frameworks</h4>
+    <h4>Bibliotecas e Frameworks</h4>
     
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     
-<h4>Design</h4>
+<h4>Ferramentas de Design</h4>
 
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
