@@ -7,7 +7,7 @@
 
 </div>
 
-### Sou um desenvolvedor que está trilhando o caminho do Fullstack. Minha abordagem é baseada na criação de códigos minimalistas com foco em alta performance. Tenho como objetivo expandir meus conhecimentos na área da tecnologia, contribuindo com o máximo de projetos possíveis.
+### Sou um desenvolvedor que está trilhando o caminho do Fullstack. Minha abordagem é baseada na criação de websites e sistemas minimalistas com foco em alta performance. Tenho como objetivo expandir meus conhecimentos na área da tecnologia, contribuindo com o máximo de projetos possíveis.
 
 <div align="center">
 
