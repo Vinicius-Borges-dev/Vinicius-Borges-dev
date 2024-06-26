@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     <h4>Bibliotecas e Frameworks</h4>
     
-<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=bootstrap,react" />
 <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     
