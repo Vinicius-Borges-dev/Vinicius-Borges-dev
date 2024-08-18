@@ -1,5 +1,5 @@
 # Opa! Tudo bem?👋
-### Me chamo Vinícius Borges, sou um Fullstack WebDev
+### Me chamo Vinícius Borges, sou um desenvolvedor fullstack
 
 <div align="center">
 
